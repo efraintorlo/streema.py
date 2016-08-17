@@ -9,9 +9,8 @@ README
 Get info from ``streema.com`` client.
 
 .. ATTENTION::
-   This script can be used to display info in ``tmux`` bar status
+   **This script can be used to display info in ``tmux`` bar status**
 
-.
 Install
 #########
 
